@@ -1,0 +1,9 @@
+buid/
+node_modules/
+public/
+dist/
+
+.env
+.env.test
+.env.dev
+.env.prod
